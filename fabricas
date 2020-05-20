@@ -1,0 +1,51 @@
+{
+  "Fábricas": [
+    {
+      "Países": [
+        {
+          "España": {
+            "Ciudad": "Madrid",
+            "Tamaño": "10 km^2",
+            "Trabajadores": 45
+          }
+        },
+        {
+          "Francia": {
+            "Ciudad": "París",
+            "Tamaño": "15 km^2",
+            "Trabajadores": 55
+          }
+        },
+        {
+          "Reino Unido": {
+            "Ciudad": "Londres",
+            "Tamaño": "12 km^2",
+            "Trabajadores": 40
+          }
+        }
+      ]
+    },
+    {
+      "Producción": [
+        {
+          "España": {
+            "Frutas": "Naranjas y manzanas",
+            "Cantidad": "10000 piezas al día"
+          }
+        },
+        {
+          "Francia": {
+            "Frutas": "Sandías",
+            "Cantidad": "5000 piezas al día"
+          }
+        },
+        {
+          "Reino": {
+            "Frutas": "kiwis",
+            "Cantidad": "7000 piezas al día"
+          }
+        }
+      ]
+    }
+  ]
+}
